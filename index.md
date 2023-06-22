@@ -4,4 +4,4 @@ permalink: "/"
 layout: page
 ---
 
-Hey, I'm Swarnim, a freshman at IIT Bombay majoring in Mathematics.
+Hey, I'm Swarnim Jain, an incoming [Computer Science]{https://www.cst.cam.ac.uk} student at the University of Cambridge.
